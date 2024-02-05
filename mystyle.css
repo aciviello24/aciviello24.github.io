@@ -1,0 +1,11 @@
+h1{color:rgb(183, 117, 31)}
+body{background-color: rgb(247, 237, 159)}
+#buttontd{width:266px; text-align:center;}
+.box{background-color:rgb(247, 237, 159);
+padding:5px;
+width:782px;
+clear:left;}
+#Abby{float: left; padding: 6px}
+#CMUposter{float: left; margin-right: 6px; margin-left: 6x; padding: 6px;}
+#padfoot{float: right; padding: 6px; margin-top: 5px;}
+#rhodamine{float: left; padding: 6px;}
